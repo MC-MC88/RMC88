@@ -210,3 +210,6 @@ Free to use and modify for personal use.
   <img src="WM.png" alt="MC88 Watermark" width="100px">
   <br>
 </div>
+
+
+**License:** Free for personal and educational use. Commercial use not permitted.
